@@ -1,0 +1,29 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.top-bar{
+    background-color: #00175c;
+    margin: 10px;
+    size: 100px;
+    height: 50px;
+    text-align: center;
+  
+  
+  }
+  div{
+    margin: 0;
+  }
+  #jobin{}
+  
+  .leftbar{
+    word-spacing: 30px;
+    text-align: left;
+  }
+  
+  .rightbar{
+    word-spacing: 30px;
+    text-align: right;;
+  }
